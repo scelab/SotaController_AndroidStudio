@@ -7,4 +7,5 @@ SotaをAndroidアプリで操作するプログラムです
 
 このアプリでは、server側（Sota）で「1」「2」「3」「4」「r」「x」を受け取るようにプログラムされています
 VstoneMagicでこれらの記号を受け取れるようにしてください
+
 もしくは「MainActivity.java」の「pw.println("")」の中を書き換えて違う記号を送信してください
