@@ -1,1 +1,2 @@
 # SotaController_AndroidStudio
+SotaをAndroidアプリで操作するプログラムです
